@@ -1,9 +1,11 @@
-# ai4eng_Exoplanets_Classification
+# ai4eng_Exoplanets_Classification 
+
 ## Miembros del grupo
-Juan José Gomez Mejia, CC 99051217248, Ingeniería de Sistemas
+Juan José Gomez Mejia, CC 99051217248, Ingeniería de Sistemas.
 
 ## Datos
-Los datos del proyecto vienen del sitio web Kaggle, con nombre Kepler Exoplanet Search Results, proporcionados por la NASA; son datos obtenidos por el telescopio espacial Kepler lanzado en 2009 durante casi 1 década que duró la misión espacial. Se pueden hacer disponibles ejecutando desde cualquier notebook de Google Colab con los siguientes comandos:
+Los datos del proyecto vienen del sitio web **Kaggle**, con nombre **Kepler Exoplanet Search Results**, proporcionados por la **NASA**; son datos recopilados por el telescopio espacial **Kepler** lanzado en 2009 durante casi 1 década que duró la misión espacial. 
+Se pueden hacer disponibles ejecutando desde cualquier notebook de Google Colab o el entorno de su preferencia con los siguientes comandos:
 ```
 # Instalación del paquete de Kaggle
 !pip install -U -q kaggle
@@ -20,3 +22,8 @@ files.upload()
 # (Deberá copiar el API command del dataset que desea descargar, generalmente está cerca del boton descargar localmente)
 !kaggle datasets download -d nasa/kepler-exoplanet-search-results
 ```
+
+## Videos 
+
+- [Video primera entrega](https://youtu.be/zPCg3RRaTak)
+
